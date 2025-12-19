@@ -1,1 +1,1 @@
-# MessingAroundInOpenGL-C-
+# MessingAroundInOpenGL-cpp
